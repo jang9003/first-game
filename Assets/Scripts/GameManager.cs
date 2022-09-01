@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     //
-    Vector3 b = new Vector3(3, 3, 3);
+    Vector3 a = new Vector3(3, 3, 3);
     void Start()
     {
         
