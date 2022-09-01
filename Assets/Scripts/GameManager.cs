@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+
+    Vector3 b = new Vector3(3, 3, 3);
     // Start is called before the first frame update
     void Start()
     {
