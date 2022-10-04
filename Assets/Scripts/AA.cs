@@ -13,6 +13,5 @@ public class AA : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("æ»≥Á«œººø‰");
     }
 }
